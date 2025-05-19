@@ -62,7 +62,7 @@
 											"parentStyle": true,
 											"left": 341,
 											"top": 175,
-											"width": 129.26708984375,
+											"width": 129.6796875,
 											"height": 13,
 											"text": "Login"
 										},
@@ -100,7 +100,7 @@
 									"parentStyle": true,
 									"left": 336,
 									"top": 168,
-									"width": 139.26708984375,
+									"width": 139.6796875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW4n4W/frKpyM="
@@ -128,7 +128,7 @@
 									"parentStyle": true,
 									"left": 336,
 									"top": 193,
-									"width": 139.26708984375,
+									"width": 139.6796875,
 									"height": 10
 								},
 								{
@@ -154,7 +154,7 @@
 											"parentStyle": true,
 											"left": 341,
 											"top": 208,
-											"width": 129.26708984375,
+											"width": 129.6796875,
 											"height": 13,
 											"text": "+startInterface()",
 											"horizontalAlignment": 0
@@ -172,7 +172,7 @@
 											"parentStyle": true,
 											"left": 341,
 											"top": 223,
-											"width": 129.26708984375,
+											"width": 129.6796875,
 											"height": 13,
 											"text": "+findById()",
 											"horizontalAlignment": 0
@@ -190,7 +190,7 @@
 											"parentStyle": true,
 											"left": 341,
 											"top": 238,
-											"width": 129.26708984375,
+											"width": 129.6796875,
 											"height": 13,
 											"text": "+presentLoginResult()",
 											"horizontalAlignment": 0
@@ -200,7 +200,7 @@
 									"parentStyle": true,
 									"left": 336,
 									"top": 203,
-									"width": 139.26708984375,
+									"width": 139.6796875,
 									"height": 53
 								},
 								{
@@ -243,7 +243,7 @@
 							"containerChangeable": true,
 							"left": 336,
 							"top": 168,
-							"width": 138.26708984375,
+							"width": 138.6796875,
 							"height": 88,
 							"nameCompartment": {
 								"$ref": "AAAAAAGW4n4W/frJ0y0="
@@ -304,7 +304,7 @@
 											"parentStyle": true,
 											"left": 117,
 											"top": 183,
-											"width": 92.4189453125,
+											"width": 94.38037109375,
 											"height": 13,
 											"text": "LoginUI"
 										},
@@ -319,7 +319,7 @@
 											"parentStyle": true,
 											"left": -256,
 											"top": -96,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -342,7 +342,7 @@
 									"parentStyle": true,
 									"left": 112,
 									"top": 176,
-									"width": 102.4189453125,
+									"width": 104.38037109375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW4pqc6ftVewg="
@@ -380,7 +380,7 @@
 											"parentStyle": true,
 											"left": 117,
 											"top": 206,
-											"width": 92.4189453125,
+											"width": 94.38037109375,
 											"height": 13,
 											"text": "+ID",
 											"horizontalAlignment": 0
@@ -398,7 +398,7 @@
 											"parentStyle": true,
 											"left": 117,
 											"top": 221,
-											"width": 92.4189453125,
+											"width": 94.38037109375,
 											"height": 13,
 											"text": "+비밀번호",
 											"horizontalAlignment": 0
@@ -408,7 +408,7 @@
 									"parentStyle": true,
 									"left": 112,
 									"top": 201,
-									"width": 102.4189453125,
+									"width": 104.38037109375,
 									"height": 38
 								},
 								{
@@ -434,7 +434,7 @@
 											"parentStyle": true,
 											"left": 117,
 											"top": 244,
-											"width": 92.4189453125,
+											"width": 94.38037109375,
 											"height": 13,
 											"text": "+requestLogin()",
 											"horizontalAlignment": 0
@@ -452,7 +452,7 @@
 											"parentStyle": true,
 											"left": 117,
 											"top": 259,
-											"width": 92.4189453125,
+											"width": 94.38037109375,
 											"height": 13,
 											"text": "+displayForm()",
 											"horizontalAlignment": 0
@@ -462,7 +462,7 @@
 									"parentStyle": true,
 									"left": 112,
 									"top": 239,
-									"width": 102.4189453125,
+									"width": 104.38037109375,
 									"height": 38
 								},
 								{
@@ -505,7 +505,7 @@
 							"containerChangeable": true,
 							"left": 112,
 							"top": 176,
-							"width": 101.4189453125,
+							"width": 103.38037109375,
 							"height": 101,
 							"nameCompartment": {
 								"$ref": "AAAAAAGW4pqc6ftU4Yk="
@@ -579,7 +579,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": -16,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model1)"
 										},
@@ -784,7 +784,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 273,
+									"left": 274,
 									"top": 198,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -806,7 +806,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 272,
+									"left": 273,
 									"top": 183,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -828,7 +828,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 274,
+									"left": 275,
 									"top": 227,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -850,7 +850,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 239,
+									"left": 241,
 									"top": 200,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -872,7 +872,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 240,
+									"left": 242,
 									"top": 187,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -894,7 +894,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 236,
+									"left": 238,
 									"top": 228,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -1007,7 +1007,7 @@
 								"$ref": "AAAAAAGW4pqc6ftTBKo="
 							},
 							"lineStyle": 1,
-							"points": "214:223;335:216",
+							"points": "216:223;335:216",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGW4qFixPw09ZY="
@@ -1132,7 +1132,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 500,
+									"left": 501,
 									"top": 191,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -1154,7 +1154,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 503,
+									"left": 504,
 									"top": 177,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -1176,7 +1176,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 496,
+									"left": 497,
 									"top": 218,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -1289,7 +1289,7 @@
 								"$ref": "AAAAAAGW4n4W/frIOx8="
 							},
 							"lineStyle": 1,
-							"points": "475:212;607:212",
+							"points": "476:212;607:212",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGW4qFsCPywHpo="
@@ -1442,7 +1442,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4pqc6ftR1Vs="
 							},
-							"name": "ID"
+							"name": "ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -1450,7 +1451,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4pqc6ftR1Vs="
 							},
-							"name": "비밀번호"
+							"name": "비밀번호",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -1486,7 +1488,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4px9rPuRZIg="
 							},
-							"name": "ID"
+							"name": "ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -1494,7 +1497,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4px9rPuRZIg="
 							},
-							"name": "비밀번호"
+							"name": "비밀번호",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -1569,7 +1573,7 @@
 											"parentStyle": true,
 											"left": 373,
 											"top": 191,
-											"width": 137.220703125,
+											"width": 138.75048828125,
 											"height": 13,
 											"text": "Logout"
 										},
@@ -1584,7 +1588,7 @@
 											"parentStyle": true,
 											"left": 176,
 											"top": 32,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model2)"
 										},
@@ -1607,7 +1611,7 @@
 									"parentStyle": true,
 									"left": 368,
 									"top": 184,
-									"width": 147.220703125,
+									"width": 148.75048828125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW4qMkrf3UHgE="
@@ -1635,7 +1639,7 @@
 									"parentStyle": true,
 									"left": 368,
 									"top": 209,
-									"width": 147.220703125,
+									"width": 148.75048828125,
 									"height": 10
 								},
 								{
@@ -1661,7 +1665,7 @@
 											"parentStyle": true,
 											"left": 373,
 											"top": 224,
-											"width": 137.220703125,
+											"width": 138.75048828125,
 											"height": 13,
 											"text": "+startInterface()",
 											"horizontalAlignment": 0
@@ -1679,7 +1683,7 @@
 											"parentStyle": true,
 											"left": 373,
 											"top": 239,
-											"width": 137.220703125,
+											"width": 138.75048828125,
 											"height": 13,
 											"text": "+presentLogoutResult()",
 											"horizontalAlignment": 0
@@ -1689,7 +1693,7 @@
 									"parentStyle": true,
 									"left": 368,
 									"top": 219,
-									"width": 147.220703125,
+									"width": 148.75048828125,
 									"height": 38
 								},
 								{
@@ -1732,7 +1736,7 @@
 							"containerChangeable": true,
 							"left": 368,
 							"top": 184,
-							"width": 146.220703125,
+							"width": 147.75048828125,
 							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAGW4qMkrf3T+ZA="
@@ -1806,7 +1810,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 48,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model2)"
 										},
@@ -2382,7 +2386,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 48,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model3)"
 										},
@@ -2496,7 +2500,7 @@
 											"top": 246,
 											"width": 143.7080078125,
 											"height": 13,
-											"text": "+presentSignUpsucess()",
+											"text": "+presentSignUpResult()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2606,7 +2610,7 @@
 											"parentStyle": true,
 											"left": 77,
 											"top": 191,
-											"width": 103.248046875,
+											"width": 104.3525390625,
 											"height": 13,
 											"text": "SignUpUI"
 										},
@@ -2621,7 +2625,7 @@
 											"parentStyle": true,
 											"left": -16,
 											"top": 16,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model3)"
 										},
@@ -2644,7 +2648,7 @@
 									"parentStyle": true,
 									"left": 72,
 									"top": 184,
-									"width": 113.248046875,
+									"width": 114.3525390625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW4sXLLQDdYyQ="
@@ -2682,7 +2686,7 @@
 											"parentStyle": true,
 											"left": 77,
 											"top": 214,
-											"width": 103.248046875,
+											"width": 104.3525390625,
 											"height": 13,
 											"text": "+ID",
 											"horizontalAlignment": 0
@@ -2700,7 +2704,7 @@
 											"parentStyle": true,
 											"left": 77,
 											"top": 229,
-											"width": 103.248046875,
+											"width": 104.3525390625,
 											"height": 13,
 											"text": "+비밀번호",
 											"horizontalAlignment": 0
@@ -2718,7 +2722,7 @@
 											"parentStyle": true,
 											"left": 77,
 											"top": 244,
-											"width": 103.248046875,
+											"width": 104.3525390625,
 											"height": 13,
 											"text": "+전화번호",
 											"horizontalAlignment": 0
@@ -2728,7 +2732,7 @@
 									"parentStyle": true,
 									"left": 72,
 									"top": 209,
-									"width": 113.248046875,
+									"width": 114.3525390625,
 									"height": 53
 								},
 								{
@@ -2754,7 +2758,7 @@
 											"parentStyle": true,
 											"left": 77,
 											"top": 267,
-											"width": 103.248046875,
+											"width": 104.3525390625,
 											"height": 13,
 											"text": "+requestSignUp()",
 											"horizontalAlignment": 0
@@ -2772,7 +2776,7 @@
 											"parentStyle": true,
 											"left": 77,
 											"top": 282,
-											"width": 103.248046875,
+											"width": 104.3525390625,
 											"height": 13,
 											"text": "+displayForm()",
 											"horizontalAlignment": 0
@@ -2790,7 +2794,7 @@
 											"parentStyle": true,
 											"left": 77,
 											"top": 297,
-											"width": 103.248046875,
+											"width": 104.3525390625,
 											"height": 13,
 											"text": "+showResult()",
 											"horizontalAlignment": 0
@@ -2800,7 +2804,7 @@
 									"parentStyle": true,
 									"left": 72,
 									"top": 262,
-									"width": 113.248046875,
+									"width": 114.3525390625,
 									"height": 53
 								},
 								{
@@ -2843,7 +2847,7 @@
 							"containerChangeable": true,
 							"left": 72,
 							"top": 184,
-							"width": 112.248046875,
+							"width": 113.3525390625,
 							"height": 131,
 							"nameCompartment": {
 								"$ref": "AAAAAAGW4sXLLQDcpfw="
@@ -2915,7 +2919,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model3)"
 										},
@@ -3136,7 +3140,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 246,
-									"top": 215,
+									"top": 214,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -3157,8 +3161,8 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 244,
-									"top": 200,
+									"left": 245,
+									"top": 199,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -3180,7 +3184,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 249,
-									"top": 244,
+									"top": 243,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -3201,8 +3205,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 209,
-									"top": 219,
+									"left": 210,
+									"top": 218,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -3223,8 +3227,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 209,
-									"top": 205,
+									"left": 211,
+									"top": 204,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -3245,8 +3249,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 207,
-									"top": 247,
+									"left": 208,
+									"top": 246,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -3289,7 +3293,7 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 279,
-									"top": 198,
+									"top": 197,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -3358,7 +3362,7 @@
 								"$ref": "AAAAAAGW4sXLLQDbWDI="
 							},
 							"lineStyle": 1,
-							"points": "185:243;311:229",
+							"points": "186:242;311:229",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGW4sodmwI5MPs="
@@ -3738,7 +3742,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4sWmwACvLHQ="
 							},
-							"name": "presentSignUpsucess"
+							"name": "presentSignUpResult"
 						}
 					]
 				},
@@ -3785,7 +3789,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4sXLLQDZpBQ="
 							},
-							"name": "ID"
+							"name": "ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -3793,7 +3798,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4sXLLQDZpBQ="
 							},
-							"name": "비밀번호"
+							"name": "비밀번호",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -3801,7 +3807,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4sXLLQDZpBQ="
 							},
-							"name": "전화번호"
+							"name": "전화번호",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -3845,7 +3852,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4sX0dQEDBlQ="
 							},
-							"name": "ID"
+							"name": "ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -3853,7 +3861,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4sX0dQEDBlQ="
 							},
-							"name": "비밀번호"
+							"name": "비밀번호",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -3861,7 +3870,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4sX0dQEDBlQ="
 							},
-							"name": "전화번호"
+							"name": "전화번호",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -3947,7 +3957,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model4)"
 										},
@@ -4161,7 +4171,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model4)"
 										},
@@ -4395,7 +4405,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model4)"
 										},
@@ -5239,7 +5249,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4sse1QOA1Oo="
 							},
-							"name": "자전거 ID"
+							"name": "자전거 ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5247,7 +5258,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4sse1QOA1Oo="
 							},
-							"name": "자전거 제품명"
+							"name": "자전거 제품명",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -5275,7 +5287,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4stBXwOqwo0="
 							},
-							"name": "자전거 ID"
+							"name": "자전거 ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -5283,7 +5296,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4stBXwOqwo0="
 							},
-							"name": "자전거 제품명"
+							"name": "자전거 제품명",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -5371,7 +5385,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 96,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model5)"
 										},
@@ -5454,24 +5468,6 @@
 										},
 										{
 											"_type": "UMLOperationView",
-											"_id": "AAAAAAGW4tNyhQhW0Ko=",
-											"_parent": {
-												"$ref": "AAAAAAGW4s2GSAVV3HA="
-											},
-											"model": {
-												"$ref": "AAAAAAGW4tNygQhTreo="
-											},
-											"font": "Arial;13;0",
-											"parentStyle": true,
-											"left": 333,
-											"top": 263,
-											"width": 131.4443359375,
-											"height": 13,
-											"text": "+findBike()",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
 											"_id": "AAAAAAGW4tOFlgifCDY=",
 											"_parent": {
 												"$ref": "AAAAAAGW4s2GSAVV3HA="
@@ -5482,7 +5478,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 333,
-											"top": 278,
+											"top": 263,
 											"width": 131.4443359375,
 											"height": 13,
 											"text": "+presentResult()",
@@ -5500,7 +5496,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 333,
-											"top": 293,
+											"top": 278,
 											"width": 131.4443359375,
 											"height": 13,
 											"text": "+updateRentalStatus()",
@@ -5512,7 +5508,7 @@
 									"left": 328,
 									"top": 243,
 									"width": 141.4443359375,
-									"height": 68
+									"height": 53
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -5624,7 +5620,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model5)"
 										},
@@ -5863,7 +5859,7 @@
 											"parentStyle": true,
 											"left": 581,
 											"top": 215,
-											"width": 106.8154296875,
+											"width": 110.24951171875,
 											"height": 13,
 											"text": "bike"
 										},
@@ -5876,7 +5872,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model5)"
 										},
@@ -5897,7 +5893,7 @@
 									"parentStyle": true,
 									"left": 576,
 									"top": 208,
-									"width": 116.8154296875,
+									"width": 120.24951171875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW4s3DpwWkJvU="
@@ -5935,7 +5931,7 @@
 											"parentStyle": true,
 											"left": 581,
 											"top": 238,
-											"width": 106.8154296875,
+											"width": 110.24951171875,
 											"height": 13,
 											"text": "+자전거 ID",
 											"horizontalAlignment": 0
@@ -5953,7 +5949,7 @@
 											"parentStyle": true,
 											"left": 581,
 											"top": 253,
-											"width": 106.8154296875,
+											"width": 110.24951171875,
 											"height": 13,
 											"text": "+자전거 제품명",
 											"horizontalAlignment": 0
@@ -5971,7 +5967,7 @@
 											"parentStyle": true,
 											"left": 581,
 											"top": 268,
-											"width": 106.8154296875,
+											"width": 110.24951171875,
 											"height": 13,
 											"text": "+자전거 렌탈 여부",
 											"horizontalAlignment": 0
@@ -5981,7 +5977,7 @@
 									"parentStyle": true,
 									"left": 576,
 									"top": 233,
-									"width": 116.8154296875,
+									"width": 120.24951171875,
 									"height": 53
 								},
 								{
@@ -6007,7 +6003,7 @@
 											"parentStyle": true,
 											"left": 581,
 											"top": 291,
-											"width": 106.8154296875,
+											"width": 110.24951171875,
 											"height": 13,
 											"text": "+isAvailable()",
 											"horizontalAlignment": 0
@@ -6017,7 +6013,7 @@
 									"parentStyle": true,
 									"left": 576,
 									"top": 286,
-									"width": 116.8154296875,
+									"width": 120.24951171875,
 									"height": 23
 								},
 								{
@@ -6056,7 +6052,7 @@
 							"containerChangeable": true,
 							"left": 576,
 							"top": 208,
-							"width": 115.8154296875,
+							"width": 119.24951171875,
 							"height": 101,
 							"nameCompartment": {
 								"$ref": "AAAAAAGW4s3DpwWjTNE="
@@ -6687,14 +6683,6 @@
 						},
 						{
 							"_type": "UMLOperation",
-							"_id": "AAAAAAGW4tNygQhTreo=",
-							"_parent": {
-								"$ref": "AAAAAAGW4s2GSAVM6Go="
-							},
-							"name": "findBike"
-						},
-						{
-							"_type": "UMLOperation",
 							"_id": "AAAAAAGW4tOFkQicLo8=",
 							"_parent": {
 								"$ref": "AAAAAAGW4s2GSAVM6Go="
@@ -6754,7 +6742,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4s2nYAV2R7Y="
 							},
-							"name": "자전거 ID"
+							"name": "자전거 ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6762,7 +6751,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4s2nYAV2R7Y="
 							},
-							"name": "자전거 제품명"
+							"name": "자전거 제품명",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -6798,7 +6788,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4s3DpwWgMj0="
 							},
-							"name": "자전거 ID"
+							"name": "자전거 ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6806,7 +6797,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4s3DpwWgMj0="
 							},
-							"name": "자전거 제품명"
+							"name": "자전거 제품명",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -6814,7 +6806,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4s3DpwWgMj0="
 							},
-							"name": "자전거 렌탈 여부"
+							"name": "자전거 렌탈 여부",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -6887,7 +6880,7 @@
 											"parentStyle": true,
 											"left": 317,
 											"top": 223,
-											"width": 107.58349609375,
+											"width": 108.7578125,
 											"height": 13,
 											"text": "bikeRental"
 										},
@@ -6900,7 +6893,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model6)"
 										},
@@ -6921,7 +6914,7 @@
 									"parentStyle": true,
 									"left": 312,
 									"top": 216,
-									"width": 117.58349609375,
+									"width": 118.7578125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW4tbMpwk+xUo="
@@ -6949,7 +6942,7 @@
 									"parentStyle": true,
 									"left": 312,
 									"top": 241,
-									"width": 117.58349609375,
+									"width": 118.7578125,
 									"height": 10
 								},
 								{
@@ -6975,7 +6968,7 @@
 											"parentStyle": true,
 											"left": 317,
 											"top": 256,
-											"width": 107.58349609375,
+											"width": 108.7578125,
 											"height": 13,
 											"text": "+starInterface()",
 											"horizontalAlignment": 0
@@ -6993,7 +6986,7 @@
 											"parentStyle": true,
 											"left": 317,
 											"top": 271,
-											"width": 107.58349609375,
+											"width": 108.7578125,
 											"height": 13,
 											"text": "+presentBikeInfo()",
 											"horizontalAlignment": 0
@@ -7011,7 +7004,7 @@
 											"parentStyle": true,
 											"left": 317,
 											"top": 286,
-											"width": 107.58349609375,
+											"width": 108.7578125,
 											"height": 13,
 											"text": "+findRentalBike()",
 											"horizontalAlignment": 0
@@ -7021,7 +7014,7 @@
 									"parentStyle": true,
 									"left": 312,
 									"top": 251,
-									"width": 117.58349609375,
+									"width": 118.7578125,
 									"height": 53
 								},
 								{
@@ -7060,7 +7053,7 @@
 							"containerChangeable": true,
 							"left": 312,
 							"top": 216,
-							"width": 116.58349609375,
+							"width": 117.7578125,
 							"height": 88,
 							"nameCompartment": {
 								"$ref": "AAAAAAGW4tbMpwk9ohU="
@@ -7119,7 +7112,7 @@
 											"parentStyle": true,
 											"left": 117,
 											"top": 231,
-											"width": 119.87255859375,
+											"width": 121.1865234375,
 											"height": 13,
 											"text": "bikeInfoUI"
 										},
@@ -7132,7 +7125,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model6)"
 										},
@@ -7153,7 +7146,7 @@
 									"parentStyle": true,
 									"left": 112,
 									"top": 224,
-									"width": 129.87255859375,
+									"width": 131.1865234375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW4teFyAlowTQ="
@@ -7191,7 +7184,7 @@
 											"parentStyle": true,
 											"left": 117,
 											"top": 254,
-											"width": 119.87255859375,
+											"width": 121.1865234375,
 											"height": 13,
 											"text": "+자전거 ID",
 											"horizontalAlignment": 0
@@ -7209,7 +7202,7 @@
 											"parentStyle": true,
 											"left": 117,
 											"top": 269,
-											"width": 119.87255859375,
+											"width": 121.1865234375,
 											"height": 13,
 											"text": "+자전거 제품명",
 											"horizontalAlignment": 0
@@ -7219,7 +7212,7 @@
 									"parentStyle": true,
 									"left": 112,
 									"top": 249,
-									"width": 129.87255859375,
+									"width": 131.1865234375,
 									"height": 38
 								},
 								{
@@ -7245,7 +7238,7 @@
 											"parentStyle": true,
 											"left": 117,
 											"top": 292,
-											"width": 119.87255859375,
+											"width": 121.1865234375,
 											"height": 13,
 											"text": "+requestRentalInfo()",
 											"horizontalAlignment": 0
@@ -7255,7 +7248,7 @@
 									"parentStyle": true,
 									"left": 112,
 									"top": 287,
-									"width": 129.87255859375,
+									"width": 131.1865234375,
 									"height": 23
 								},
 								{
@@ -7294,7 +7287,7 @@
 							"containerChangeable": true,
 							"left": 112,
 							"top": 224,
-							"width": 128.87255859375,
+							"width": 130.1865234375,
 							"height": 86,
 							"nameCompartment": {
 								"$ref": "AAAAAAGW4teFyAlnUaU="
@@ -7353,7 +7346,7 @@
 											"parentStyle": true,
 											"left": 557,
 											"top": 223,
-											"width": 90.20361328125,
+											"width": 92.67919921875,
 											"height": 13,
 											"text": "bike"
 										},
@@ -7366,7 +7359,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"width": 80.9072265625,
+											"width": 85.0966796875,
 											"height": 13,
 											"text": "(from Model6)"
 										},
@@ -7387,7 +7380,7 @@
 									"parentStyle": true,
 									"left": 552,
 									"top": 216,
-									"width": 100.20361328125,
+									"width": 102.67919921875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW4teyewmSNNk="
@@ -7425,7 +7418,7 @@
 											"parentStyle": true,
 											"left": 557,
 											"top": 246,
-											"width": 90.20361328125,
+											"width": 92.67919921875,
 											"height": 13,
 											"text": "+자전거 ID",
 											"horizontalAlignment": 0
@@ -7443,7 +7436,7 @@
 											"parentStyle": true,
 											"left": 557,
 											"top": 261,
-											"width": 90.20361328125,
+											"width": 92.67919921875,
 											"height": 13,
 											"text": "+자전거 제품명",
 											"horizontalAlignment": 0
@@ -7461,7 +7454,7 @@
 											"parentStyle": true,
 											"left": 557,
 											"top": 276,
-											"width": 90.20361328125,
+											"width": 92.67919921875,
 											"height": 13,
 											"text": "+렌탈 여부",
 											"horizontalAlignment": 0
@@ -7471,7 +7464,7 @@
 									"parentStyle": true,
 									"left": 552,
 									"top": 241,
-									"width": 100.20361328125,
+									"width": 102.67919921875,
 									"height": 53
 								},
 								{
@@ -7497,7 +7490,7 @@
 											"parentStyle": true,
 											"left": 557,
 											"top": 299,
-											"width": 90.20361328125,
+											"width": 92.67919921875,
 											"height": 13,
 											"text": "+isAvailable()",
 											"horizontalAlignment": 0
@@ -7507,7 +7500,7 @@
 									"parentStyle": true,
 									"left": 552,
 									"top": 294,
-									"width": 100.20361328125,
+									"width": 102.67919921875,
 									"height": 23
 								},
 								{
@@ -7546,7 +7539,7 @@
 							"containerChangeable": true,
 							"left": 552,
 							"top": 216,
-							"width": 99.20361328125,
+							"width": 101.67919921875,
 							"height": 101,
 							"nameCompartment": {
 								"$ref": "AAAAAAGW4teyegmRmF0="
@@ -7586,7 +7579,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 275,
+									"left": 276,
 									"top": 242,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -7608,7 +7601,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 275,
+									"left": 276,
 									"top": 227,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -7630,7 +7623,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 276,
+									"left": 277,
 									"top": 271,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -7652,7 +7645,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 267,
+									"left": 268,
 									"top": 242,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -7674,7 +7667,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 269,
+									"left": 270,
 									"top": 229,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -7696,7 +7689,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 264,
+									"left": 265,
 									"top": 270,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -7809,7 +7802,7 @@
 								"$ref": "AAAAAAGW4teFyAlmIl8="
 							},
 							"lineStyle": 1,
-							"points": "242:265;311:262",
+							"points": "243:265;311:262",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGW4t1X8Aosu0c="
@@ -7868,7 +7861,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 490,
+									"left": 491,
 									"top": 242,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -7890,7 +7883,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 490,
+									"left": 491,
 									"top": 227,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -7912,7 +7905,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 489,
+									"left": 490,
 									"top": 271,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -7934,7 +7927,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 456,
+									"left": 457,
 									"top": 241,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -7956,7 +7949,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 458,
+									"left": 459,
 									"top": 228,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -7978,7 +7971,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 451,
+									"left": 452,
 									"top": 269,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -8091,7 +8084,7 @@
 								"$ref": "AAAAAAGW4tbMpwk8L7E="
 							},
 							"lineStyle": 1,
-							"points": "430:262;551:265",
+							"points": "431:262;551:265",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGW4t1y4AuADEI="
@@ -8236,7 +8229,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4teFyAlkulI="
 							},
-							"name": "자전거 ID"
+							"name": "자전거 ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8244,7 +8238,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4teFyAlkulI="
 							},
-							"name": "자전거 제품명"
+							"name": "자전거 제품명",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -8272,7 +8267,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4teyegmO8OY="
 							},
-							"name": "자전거 ID"
+							"name": "자전거 ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8280,7 +8276,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4teyegmO8OY="
 							},
-							"name": "자전거 제품명"
+							"name": "자전거 제품명",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8288,7 +8285,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4teyegmO8OY="
 							},
-							"name": "렌탈 여부"
+							"name": "렌탈 여부",
+							"type": ""
 						}
 					],
 					"operations": [
