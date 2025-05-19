@@ -2500,7 +2500,7 @@
 											"top": 246,
 											"width": 143.7080078125,
 											"height": 13,
-											"text": "+presentSignUpsucess()",
+											"text": "+presentSignUpResult()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -3742,7 +3742,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGW4sWmwACvLHQ="
 							},
-							"name": "presentSignUpsucess"
+							"name": "presentSignUpResult"
 						}
 					]
 				},
@@ -5468,24 +5468,6 @@
 										},
 										{
 											"_type": "UMLOperationView",
-											"_id": "AAAAAAGW4tNyhQhW0Ko=",
-											"_parent": {
-												"$ref": "AAAAAAGW4s2GSAVV3HA="
-											},
-											"model": {
-												"$ref": "AAAAAAGW4tNygQhTreo="
-											},
-											"font": "Arial;13;0",
-											"parentStyle": true,
-											"left": 333,
-											"top": 263,
-											"width": 131.4443359375,
-											"height": 13,
-											"text": "+findBike()",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
 											"_id": "AAAAAAGW4tOFlgifCDY=",
 											"_parent": {
 												"$ref": "AAAAAAGW4s2GSAVV3HA="
@@ -5496,7 +5478,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 333,
-											"top": 278,
+											"top": 263,
 											"width": 131.4443359375,
 											"height": 13,
 											"text": "+presentResult()",
@@ -5514,7 +5496,7 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 333,
-											"top": 293,
+											"top": 278,
 											"width": 131.4443359375,
 											"height": 13,
 											"text": "+updateRentalStatus()",
@@ -5526,7 +5508,7 @@
 									"left": 328,
 									"top": 243,
 									"width": 141.4443359375,
-									"height": 68
+									"height": 53
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -6698,14 +6680,6 @@
 								"$ref": "AAAAAAGW4s2GSAVM6Go="
 							},
 							"name": "startInterface"
-						},
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAGW4tNygQhTreo=",
-							"_parent": {
-								"$ref": "AAAAAAGW4s2GSAVM6Go="
-							},
-							"name": "findBike"
 						},
 						{
 							"_type": "UMLOperation",

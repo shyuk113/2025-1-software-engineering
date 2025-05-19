@@ -3616,6 +3616,20 @@
 									"lineStyle": 1,
 									"points": "176:264;223:266",
 									"headEndStyle": 2
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGW6DFpSJaWIAc=",
+									"_parent": {
+										"$ref": "AAAAAAGW3aQRWT6nY88="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"left": 336,
+									"top": 328,
+									"width": 177.6416015625,
+									"height": 25,
+									"text": "2.1.2:presentSignUpResult()"
 								}
 							]
 						}
@@ -4881,6 +4895,20 @@
 									"nameCompartment": {
 										"$ref": "AAAAAAGW6AgIuHjZEHc="
 									}
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGW6DJ7OKCYPS8=",
+									"_parent": {
+										"$ref": "AAAAAAGW3u3GgMqt8/s="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": false,
+									"left": 360,
+									"top": 256,
+									"width": 168,
+									"height": 38,
+									"text": "2.1.2: presentLoginResult()"
 								}
 							]
 						}
