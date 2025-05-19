@@ -1,0 +1,33 @@
+[이성혁] Tue May 20 00:23:06 2025 +0900 docs: diagram 수정 b4c48bd
+[이성혁] Tue May 20 00:20:24 2025 +0900 docs:폴더 이동 a2d3e22
+[이성혁] Tue May 20 00:14:03 2025 +0900 docs: diagram pdf 첨부 836aafb
+[이성혁] Tue May 20 00:13:13 2025 +0900 docs: diagram 수정 3b1ef37
+[이성혁] Mon May 19 23:57:35 2025 +0900 Rename communication diagram to communication diagram.md 657d7aa
+[이성혁] Mon May 19 23:56:13 2025 +0900 Create communication diagram 6ccd2d4
+[이성혁] Mon May 19 23:55:53 2025 +0900 Create analysis class diagram.md 1a0894c
+[이성혁] Mon May 19 23:54:48 2025 +0900 Merge pull request #8 from shyuk113/docs/decription-diagram d288b31
+[이성혁] Mon May 19 23:53:52 2025 +0900 Update class diagram.mdj b209341
+[이성혁] Mon May 19 23:26:05 2025 +0900 docs: diagram 수정 9b0575a
+[이성혁] Mon May 19 21:50:44 2025 +0900 Merge pull request #7 from shyuk113/docs/decription-diagram febc6bd
+[이성혁] Mon May 19 21:49:04 2025 +0900 docs: description 수정 979f46b
+[이성혁] Mon May 19 21:25:31 2025 +0900 docs: github 주소 추가 2465c6c
+[이성혁] Mon May 19 21:24:18 2025 +0900 Merge branch 'main' of https://github.com/shyuk113/2025-1-software-engineering f9d73a2
+[이성혁] Mon May 19 21:24:15 2025 +0900 docs: git주소 및 개인코드 추가 05394de
+[이성혁] Mon May 19 20:03:54 2025 +0900 Merge pull request #6 from shyuk113/docs/decription-diagram 817d4d6
+[이성혁] Mon May 19 20:00:44 2025 +0900 docs: diagram 수정 6f187e3
+[이성혁] Mon May 19 19:55:07 2025 +0900 docs: class diagram 수정 cc0ce50
+[이성혁] Mon May 19 19:14:36 2025 +0900 docs: communication diagram 수정 b0794e6
+[이성혁] Mon May 19 19:06:24 2025 +0900 docs: diagram pdf 수정 26d85a2
+[이성혁] Mon May 19 18:43:34 2025 +0900 docs: 대여 description 수정 2e91a28
+[이성혁] Sun May 18 19:39:05 2025 +0900 Merge pull request #5 from shyuk113/docs/diagram a481b4e
+[이성혁] Sun May 18 19:37:59 2025 +0900 docs: class, communication diagram 작성 c15c476
+[이성혁] Sat May 17 19:40:56 2025 +0900 Merge pull request #4 from shyuk113/docs/description ad1c2e7
+[이성혁] Sat May 17 19:40:08 2025 +0900 docs: description 작성 ecead4c
+[이성혁] Sat May 17 18:27:38 2025 +0900 Merge pull request #3 from shyuk113/docs/usecase-diagram c075879
+[이성혁] Sat May 17 18:26:24 2025 +0900 docs: usecase diagram 작성 52a969d
+[이성혁] Sat May 17 17:46:00 2025 +0900 Merge pull request #2 from shyuk113/docs/requirements ed2d81c
+[이성혁] Sat May 17 17:44:51 2025 +0900 docs: requirement list 작성 9e9164b
+[이성혁] Sat May 17 17:40:56 2025 +0900 Merge pull request #1 from shyuk113/docs/requirements db840ad
+[이성혁] Sat May 17 17:39:34 2025 +0900 docs: requirement list 작성 c5ef22d
+[이성혁] Sat May 17 17:32:33 2025 +0900 Create requirement.md 9e99b30
+[이성혁] Sat May 17 17:24:55 2025 +0900 Initial commit 5f8e74d
