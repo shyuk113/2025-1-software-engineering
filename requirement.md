@@ -1,5 +1,6 @@
 채점용 개인 코드: 95981
-[github 주소](https://github.com/shyuk113/2025-1-software-engineering)  
+
+github 주소 : [https://github.com/shyuk113/2025-1-software-engineering](https://github.com/shyuk113/2025-1-software-engineering)  
 
 # 요구 사항 리스트
 | No. | Requirements | Use case|
