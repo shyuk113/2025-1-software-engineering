@@ -3623,7 +3623,7 @@
 									"top": 328,
 									"width": 177.6416015625,
 									"height": 25,
-									"text": "3 :presentSignUpResult()"
+									"text": "2.1.2 :presentSignUpResult()"
 								},
 								{
 									"_type": "FreelineEdgeView",
@@ -3678,7 +3678,7 @@
 													"parentStyle": true,
 													"left": 533,
 													"top": 431,
-													"width": 135.3671875,
+													"width": 141.58154296875,
 													"height": 13,
 													"text": "NewMember: Memebr"
 												},
@@ -3691,7 +3691,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": true,
-													"width": 106.20263671875,
+													"width": 110.24609375,
 													"height": 13,
 													"text": "(from Interaction1)"
 												},
@@ -3712,7 +3712,7 @@
 											"parentStyle": true,
 											"left": 528,
 											"top": 424,
-											"width": 145.3671875,
+											"width": 151.58154296875,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGXAKupnjLawlc="
@@ -3732,7 +3732,7 @@
 									"parentStyle": false,
 									"left": 528,
 									"top": 424,
-									"width": 144.3671875,
+									"width": 150.58154296875,
 									"height": 56,
 									"nameCompartment": {
 										"$ref": "AAAAAAGXAKupnjLZgg8="
@@ -5071,9 +5071,9 @@
 									"parentStyle": false,
 									"left": 360,
 									"top": 256,
-									"width": 168,
+									"width": 176,
 									"height": 38,
-									"text": "3 : presentLoginResult()"
+									"text": "2.1.2 : presentLoginResult()"
 								},
 								{
 									"_type": "UMLTextView",
@@ -5594,7 +5594,7 @@
 									"top": 296,
 									"width": 192,
 									"height": 38,
-									"text": "3 : presentLogoutResult()"
+									"text": "2.1.2 : presentLogoutResult()"
 								},
 								{
 									"_type": "UMLCommLifelineView",
@@ -6487,7 +6487,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": true,
-													"width": 106.20263671875,
+													"width": 110.24609375,
 													"height": 13,
 													"text": "(from Interaction1)"
 												},
@@ -7222,9 +7222,9 @@
 									"parentStyle": false,
 									"left": 360,
 									"top": 280,
-									"width": 131.392578125,
+									"width": 152,
 									"height": 32,
-									"text": "3 :presentResult()"
+									"text": "2.1.2 :presentResult()"
 								},
 								{
 									"_type": "UMLCommLifelineView",
@@ -7977,9 +7977,9 @@
 									"parentStyle": false,
 									"left": 392,
 									"top": 312,
-									"width": 141.51708984375,
-									"height": 25,
-									"text": "3 :presentBikeInfo()"
+									"width": 160,
+									"height": 38,
+									"text": "2.1.2 :presentBikeInfo()"
 								},
 								{
 									"_type": "UMLCommLifelineView",
